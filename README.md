@@ -1,8 +1,8 @@
 # HEY!, I'm Agustin! 👋 
 
-                                         I'm Full Stack Developer.
+                                         I'm a Full Stack Developer
 
-I learnt and have mastered solid skills in the following technologies:
+I have mastered solid skills in the following technologies:
 
             ⚡  TypeScript | React | Redux | NodeJs | Express | PostgreSQL | Firebase/Firestore | Sequelize | Python |  HTML | CSS  ⚡
 
