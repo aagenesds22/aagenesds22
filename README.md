@@ -8,7 +8,7 @@ I have mastered solid skills in the following technologies:
 
 
 📝 I love the tech world because I enjoy finding all possible solutions and optimizations to random problems of software and also, because it is a skill that soon will become
-necessary to master in order to adapt to a better and more developed civilization. Our future is about change, and change requires commitment. That's what I feel when I code.
+necessary to master in order to adapt to a better and more developed civilization. Life is about changes, and change requires commitment. That's what I feel when I code.
 <h3 align="left">Languages and Tools:</h3>
 
 <h5>Front-end Technologies:</h5>
