@@ -7,8 +7,9 @@ I have mastered solid skills in the following technologies:
             ⚡  TypeScript | React | Redux | NodeJs | Express | PostgreSQL | Firebase/Firestore | Sequelize | Python |  HTML | CSS  ⚡
 
 
-📝 I love the tech world because I enjoy finding all possible solutions and optimizations to random problems in software and also, because it is a skill that soon will become
-necessary to master in order to adapt to a better and more developed civilization. Life is about changes, and change requires commitment. That's what I feel when I code.
+🔭 I have 1 year of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
+easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. I like to share my ideas and knowledge and I am able 
+to attend work in full-time flexibility.
 
 
 <h5>Resume</h5>
@@ -18,12 +19,8 @@ necessary to master in order to adapt to a better and more developed civilizatio
 
 
 
-
-
-
-🔭 I have 1 year of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
-easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. I like to share my ideas and knowledge and I am able 
-to attend work in full-time flexibility.
+📝 I love the tech world because I enjoy finding all possible solutions and optimizations to random problems in software and also, because it is a skill that soon will become
+necessary to master in order to adapt to a better and more developed civilization. Life is about changes, and change requires commitment. That's what I feel when I code.
 
 
 📫 Contact: 
