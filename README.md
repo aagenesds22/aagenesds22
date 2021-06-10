@@ -12,7 +12,7 @@ easily get along with intercultural teams without any language constraint as I c
 to attend work in full-time flexibility.
 
 <div>
-            <h5 style="width: max-content; margin: 0 auto;">Resume</h5>
+            <h5 style="width: max-content; margin: 0 auto; color: red">Resume</h5>
             <a href="https://drive.google.com/file/d/1BcHPVqltYpD6vRwVG3TbDxoZXPmfD6h8/view" target="_blank" class="actions special">Download resume</a>
 </div>
 
