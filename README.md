@@ -11,9 +11,10 @@ I have mastered solid skills in the following technologies:
 easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. I like to share my ideas and knowledge and I am able 
 to attend work in full-time flexibility.
 
-
-<h5 style="width: max-content; margin: 0 auto;">Resume</h5>
-<a href="https://drive.google.com/file/d/1BcHPVqltYpD6vRwVG3TbDxoZXPmfD6h8/view" target="_blank" class="actions special">Download resume</a>
+<div>
+            <h5 style="width: max-content; margin: 0 auto;">Resume</h5>
+            <a href="https://drive.google.com/file/d/1BcHPVqltYpD6vRwVG3TbDxoZXPmfD6h8/view" target="_blank" class="actions special">Download resume</a>
+</div>
 
 
 
