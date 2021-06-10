@@ -1,4 +1,4 @@
-# About me
+# About me :joy:
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQElyL8BYEXchg/profile-displaybackgroundimage-shrink_350_1400/0/1621916629640?e=1628726400&v=beta&t=-zKGMxcvtumwMdkNGZOu2qtNiz0f8QVetekPiJOskBU" />
 
 Tech stack:
