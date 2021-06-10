@@ -1,7 +1,7 @@
-# About me 👨‍🦱
+<h1 align=center>About me 👨‍🦱<h1>
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQElyL8BYEXchg/profile-displaybackgroundimage-shrink_350_1400/0/1621916629640?e=1628726400&v=beta&t=-zKGMxcvtumwMdkNGZOu2qtNiz0f8QVetekPiJOskBU" />
 
-## Tech stack:
+<h3 align=center>Tech stack:</h3>
 
             ⚡  TypeScript | React | Redux | NodeJs | Express | PostgreSQL | Firebase/Firestore | Sequelize | Python |  HTML | CSS  ⚡
 
