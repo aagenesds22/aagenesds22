@@ -75,7 +75,7 @@ necessary to master in order to adapt to a better and more developed civilizatio
 
 
 
-🔭 I have 2 years of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
+🔭 I have 1 year of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
 easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. I like to share my ideas and knowledge and I am able 
 to attend work in full-time flexibility.
 
