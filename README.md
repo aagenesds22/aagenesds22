@@ -7,9 +7,9 @@
 
 
 🔭 I have 1 year of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
-easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. I like to share my ideas and knowledge and I am able 
-to attend work in full-time flexibility.
-
+easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. 
+            
+            
 <div>
             <h5 class="actions special">Resume</h5>
             <a href="https://drive.google.com/file/d/1BcHPVqltYpD6vRwVG3TbDxoZXPmfD6h8/view" target="_blank" class="actions special">Download resume</a>
