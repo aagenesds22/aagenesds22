@@ -12,7 +12,7 @@ easily get along with intercultural teams without any language constraint as I c
             
 <div>
             <h5 class="actions special">Resume</h5>
-            <a href="https://drive.google.com/file/d/1BcHPVqltYpD6vRwVG3TbDxoZXPmfD6h8/view" target="_blank" class="actions special">Download resume</a>
+            <a href="https://drive.google.com/file/d/1xAEQV7Zp756sX9WJ5e-fRmnkRgbwsdiE/view" target="_blank" class="actions special">Download resume</a>
 </div>
 
 
