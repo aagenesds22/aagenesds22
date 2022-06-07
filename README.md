@@ -3,11 +3,10 @@
 
 <h3 align=center>Tech stack:</h3>
 
-            ⚡  TypeScript | React | Redux | NodeJs | Express | PostgreSQL | Firebase/Firestore | Sequelize | Python |  HTML | CSS  ⚡
+            ⚡  Rust | Java | NodeJs | Express | PostgreSQL | GraphQL | TypeScript | React | Redux | ⚡
 
 
-🔭 I have 1 year of programming experience, including web applications written in React, API endpoints, SQL databases, NoSQL databases and also knowledge in Python. I can 
-easily get along with intercultural teams without any language constraint as I can speak English, Spanish and Portugues with fluidity. 
+🔭 I'm a UNIX soldier, can't imagine my life without sittin' in front of a UNIX based terminal. Without UNIX, everything is creepy. But also, I'm a software engineer with a tendency to occupy back-end roles. I can perform very good on front-end too. Along my career I have been building pretty cool applications, mantaining others and designing back-end architectures which is my main passion.
             
             
 <div>
