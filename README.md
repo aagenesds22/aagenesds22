@@ -12,13 +12,15 @@ When I'm not busy I love architecting solutions on AWS cloud.
             
             
 <div>
-            <h5 class="actions special">Resume</h5>
+            <h4 class="actions special">Resume</h4>
+            <hr>
             <a href="https://drive.google.com/file/d/1xAEQV7Zp756sX9WJ5e-fRmnkRgbwsdiE/view" target="_blank" class="actions special">Download resume</a>
 </div>
 
-
-📫 Contact: 
-aagenesds1740@gmail.com | +54116134163 
+<div>
+            <h4 class="actions special">📫 Contact: </h4>
+            <span>aagenesds1740@gmail.com | +54116134163</span>
+</div>
 
 
 <li><a href="https://www.linkedin.com/in/agustin-genes-dev/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
