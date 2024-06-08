@@ -6,7 +6,7 @@
             ⚡  Rust | Java | NodeJs | Express | PostgreSQL | GraphQL | TypeScript | React | Redux | ⚡
 
 
-🔭 I'm a UNIX soldier, can't imagine my life without sittin' in front of a UNIX based terminal. Without UNIX, everything is creepy. But also, I'm a software engineer with a tendency to occupy back-end roles. I can perform very good on front-end too. Along my career I have been building pretty cool applications, mantaining others and designing back-end architectures which is my main passion.
+🔭 I'm a UNIX soldier, can't imagine my life without sittin' in front of a UNIX based terminal. Without UNIX, everything is creepy. But also, I'm a software engineer with strong skills on Frontend & Backend combined roles. I love architecting solutions on AWS cloud.
             
             
 <div>
