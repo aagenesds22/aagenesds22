@@ -3,7 +3,7 @@
 
 <h3 align=center>Tech stack:</h3>
 
-            ⚡  AWS | NodeJs | AWS | TypeScript | React | NextJS ⚡
+                                    ⚡  AWS | Node | TypeScript | React | NextJS | Handlebars ⚡
 
 
 🔭 I'm a UNIX fan, can't imagine my life without sittin' in front of a UNIX based terminal. Without UNIX, everything is creepy. But also, I'm a software engineer with strong skills on Frontend & Backend combined roles. Currently I'm working at Mercado Libre, the leading e-commerce platform in Latin America. I have been delivering innovative solutions, using technologies such as React, Node.js, and AWS cloud. In a daily fashion I assist leaders with quarterly planning, product proposals, and project management. I also interview candidates, mentor new hires, and resolve real-time production issues. I have been challenging myself and taking risks to develop new features and improve existing ones. 
