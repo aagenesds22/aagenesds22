@@ -12,11 +12,6 @@ When I'm not busy I love architecting solutions on AWS cloud.
             
 <hr>
 <div>
-            <h4 class="actions special">Resume</h4>
-            <a href="https://drive.google.com/file/d/1xAEQV7Zp756sX9WJ5e-fRmnkRgbwsdiE/view" target="_blank" class="actions special">Download resume</a>
-</div>
-
-<div>
             <h4 class="actions special">You can also find me at LinkedIn: </h4>
             <span><a href="https://www.linkedin.com/in/agustin-genes-dev/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></span>
 </div>
