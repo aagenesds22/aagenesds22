@@ -3,7 +3,7 @@
 
 <h3 align=center>Tech stack:</h3>
 
-            ⚡  Rust | Java | NodeJs | Express | PostgreSQL | GraphQL | TypeScript | React | Redux | ⚡
+            ⚡  AWS | NodeJs | AWS | TypeScript | React | NextJS ⚡
 
 
 🔭 I'm a UNIX soldier, can't imagine my life without sittin' in front of a UNIX based terminal. Without UNIX, everything is creepy. But also, I'm a software engineer with strong skills on Frontend & Backend combined roles. I love architecting solutions on AWS cloud.
